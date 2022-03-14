@@ -36,5 +36,6 @@ _Diploma project and test tasks. You can see on my GitHub._
 * It-Academy(Computer Since) - 2021
 * IntellectFox(Frontend developer) - 2022
 ## Language:
-* English - A2
-#[Up](#anchor) 
+* English - A2  
+  
+[Up](#anchor) 
