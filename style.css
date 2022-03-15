@@ -1,0 +1,10 @@
+h1 {
+  display: inline-block;
+  border-radius: 8px;
+  border-bottom: solid #7e7e7e 2px;
+}
+
+p {
+  font-size: 30px;
+  color: #f31c1c;
+}
